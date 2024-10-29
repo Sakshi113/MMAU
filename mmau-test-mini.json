@@ -13073,7 +13073,7 @@
         "split": "test-mini",
         "category": "Reasoning",
         "sub-category": "Musical Genre Reasoning",
-        "difficulty": "Hard"
+        "difficulty": "hard"
     },
     {
         "id": "20892025-f2cb-40d5-a237-4951eaa77d04",
@@ -13091,7 +13091,7 @@
         "split": "test-mini",
         "category": "Reasoning",
         "sub-category": "Musical Genre Reasoning",
-        "difficulty": "Medium"
+        "difficulty": "medium"
     },
     {
         "id": "9aff2273-71b1-42f8-837b-7aa2b8beb6dd",
@@ -13109,7 +13109,7 @@
         "split": "test-mini",
         "category": "Reasoning",
         "sub-category": "Musical Genre Reasoning",
-        "difficulty": "Medium"
+        "difficulty": "medium"
     },
     {
         "id": "1c0358cc-85c4-4d64-afa7-8f0684a8c40d",
@@ -13127,7 +13127,7 @@
         "split": "test-mini",
         "category": "Reasoning",
         "sub-category": "Musical Genre Reasoning",
-        "difficulty": "Medium"
+        "difficulty": "medium"
     },
     {
         "id": "13a91547-3f4f-4fbe-be3e-c3abf00d7c56",
@@ -13145,7 +13145,7 @@
         "split": "test-mini",
         "category": "Reasoning",
         "sub-category": "Musical Genre Reasoning",
-        "difficulty": "Medium"
+        "difficulty": "medium"
     },
     {
         "id": "0935573e-1dc7-4343-8f86-c6a5ec4731df",
@@ -13163,7 +13163,7 @@
         "split": "test-mini",
         "category": "Reasoning",
         "sub-category": "Musical Genre Reasoning",
-        "difficulty": "Medium"
+        "difficulty": "medium"
     },
     {
         "id": "0c435677-a6a3-49df-b0d4-fda70cda8765",
