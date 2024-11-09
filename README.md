@@ -35,7 +35,7 @@ python evaluation.py  --input INPUT_JSON_PATH
 - Use this [link](https://drive.google.com/file/d/1fERNIyTa0HWry6iIG1X-1ACPlUlhlRWA/view?usp=sharing) to download `test-mini audios`.
 - Use this [link](https://drive.google.com/file/d/1XqkRupC723zAeyDn4dYniqNv4uO-8rEg/view?usp=sharing) to download `test-audios`.
 
-The answers and explanations for the test set questions are withheld. You can submit your model's predictions for the **test set** on **[EvalAI]()**.
+The answers and explanations for the test set questions are withheld. You can submit your model's predictions for the **test set** on **[EvalAI](https://eval.ai/web/challenges/challenge-page/2391/overview)**.
 
 ## Disclaimers
 The guidelines for the annotators emphasized strict compliance with copyright and licensing rules from the initial data source, specifically avoiding materials from websites that forbid copying and redistribution. 
