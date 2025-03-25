@@ -15507,7 +15507,7 @@
         "id": "1a5dd76a-7905-4a83-bd88-7ae26730656d",
         "audio_id": "./test-mini-audios/1a5dd76a-7905-4a83-bd88-7ae26730656d.wav",
         "question": "Given that an infant is crying, identify the background sound.",
-        "answer": "A bird chirping",
+        "answer": "A cat meowing",
         "choices": [
             "A car honking",
             "A cat meowing",
