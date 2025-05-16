@@ -12,7 +12,7 @@ This repo contains the evaluation code and MMAU benchmark for the paper "[MMAU: 
 We’re excited to share that our benchmark has been updated based on valuable community feedback!
 
 🔄 What's New in **MMAU-v05.15.25**
-- ✅ ~25% of Questions & Answers have been revised for improved clarity and reasoning quality
+- ✅ ~25% of Questions & Answers have been revised for improved clarity and quality
 
 - 🎧 ~5% of the audio files have been refined to enhance consistency and fidelity
 
