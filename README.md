@@ -16,9 +16,8 @@ We’re excited to share that our benchmark has been updated based on valuable c
 
 - 🎧 ~5% of the audio files have been refined to enhance consistency and fidelity
 
-🆕 This release is officially versioned as **MMAU-v05.15.25**
-
-      📌 Please cite this version when reporting results going forward
+- 🆕 This release is officially versioned as **`MMAU-v05.15.25`**  
+   > 📌 *Please cite this version when reporting results going forward*
 
 🌐 Leaderboard Update
 
