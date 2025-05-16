@@ -25,7 +25,7 @@ Our [**official website**](https://sakshi113.github.io/mmau_homepage/) now hosts
 
 - The new **`MMAU-v05.15.25`**
 
-- The previous versions (to maintain continuity and preserve prior benchmarks)
+- The previous versions (to maintain continuity and preserve prior reported results)
 
 We sincerely thank the community for your thoughtful feedback and continued support. We're committed to making this benchmark more robust and impactful for everyone.
 
