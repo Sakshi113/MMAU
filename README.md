@@ -11,10 +11,22 @@ This repo contains the evaluation code and MMAU benchmark for the paper "[MMAU: 
 
 We’re excited to share that our benchmark has been updated based on valuable community feedback!
 
-🔄 What's New?
-- ✅ Questions & Answers (QAs) have been revised for clarity and accuracy
+🔄 What's New in **MMAU-v05.15.25**
+- ✅ ~25% of Questions & Answers have been revised for improved clarity and reasoning quality
 
-- 🎧 Audio files have been updated to improve quality and consistency
+- 🎧 ~5% of the audio files have been refined to enhance consistency and fidelity
+
+🆕 This release is officially versioned as **MMAU-v05.15.25**
+
+      📌 Please cite this version when reporting results going forward
+
+🌐 Leaderboard Update
+
+- Our [**official website**] (https://sakshi113.github.io/mmau_homepage/) now hosts updated results for all leading Large Audio Language Models (LALMs) on both:
+
+      - The new **MMAU-v05.15.25**
+
+      - The previous versions (to maintain continuity and preserve prior benchmarks)
 
 We sincerely thank the community for your thoughtful feedback and continued support. We're committed to making this benchmark more robust and impactful for everyone.
 
