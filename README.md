@@ -7,6 +7,17 @@
 
 This repo contains the evaluation code and MMAU benchmark for the paper "[MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark]()"
 
+## 📢 Announcement
+
+We’re excited to share that our benchmark has been updated based on valuable community feedback!
+
+🔄 What's New?
+- ✅ Questions & Answers (QAs) have been revised for clarity and accuracy
+
+- 🎧 Audio files have been updated to improve quality and consistency
+
+We sincerely thank the community for your thoughtful feedback and continued support. We're committed to making this benchmark more robust and impactful for everyone.
+
 ## Introduction
 
 ### MMAU Benchmark
