@@ -16128,7 +16128,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16146,7 +16146,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16164,7 +16164,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16182,7 +16182,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16200,7 +16200,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16218,7 +16218,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16236,7 +16236,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16254,7 +16254,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16272,7 +16272,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16290,7 +16290,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16308,7 +16308,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16326,7 +16326,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16344,7 +16344,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16362,7 +16362,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16380,7 +16380,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Dissonant Emotion Interpretation"
   },
   {
@@ -16398,7 +16398,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16416,7 +16416,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16434,7 +16434,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16452,7 +16452,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16470,7 +16470,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16488,7 +16488,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16506,7 +16506,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16524,7 +16524,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16542,7 +16542,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16560,7 +16560,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16578,7 +16578,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16596,7 +16596,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16614,7 +16614,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Event-Based Knowledge Retrieval"
   },
   {
@@ -16632,7 +16632,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16650,7 +16650,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16668,7 +16668,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16686,7 +16686,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16704,7 +16704,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16722,7 +16722,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16740,7 +16740,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16758,7 +16758,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16776,7 +16776,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Counting"
   },
   {
@@ -16795,7 +16795,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16814,7 +16814,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16833,7 +16833,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16852,7 +16852,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16871,7 +16871,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16890,7 +16890,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16909,7 +16909,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16928,7 +16928,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16947,7 +16947,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16966,7 +16966,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -16985,7 +16985,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17004,7 +17004,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17023,7 +17023,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17042,7 +17042,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17061,7 +17061,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17080,7 +17080,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17099,7 +17099,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17118,7 +17118,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17137,7 +17137,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17156,7 +17156,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17175,7 +17175,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17194,7 +17194,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17213,7 +17213,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17232,7 +17232,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "hard",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Emotion State summarisation"
   },
   {
@@ -17250,7 +17250,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Conversational Fact Retrieval"
   },
   {
@@ -17268,7 +17268,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Conversational Fact Retrieval"
   },
   {
@@ -17286,7 +17286,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Key highlight Extraction"
   },
   {
@@ -17304,7 +17304,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Multi Speaker Role Mapping"
   },
   {
@@ -17322,7 +17322,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Multi Speaker Role Mapping"
   },
   {
@@ -17340,7 +17340,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Multi Speaker Role Mapping"
   },
   {
@@ -17358,7 +17358,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Multi Speaker Role Mapping"
   },
   {
@@ -17376,7 +17376,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Multi Speaker Role Mapping"
   },
   {
@@ -17394,7 +17394,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Multi Speaker Role Mapping"
   },
   {
@@ -17412,7 +17412,7 @@
     "task": "speech",
     "category": "Reasoning",
     "difficulty": "medium",
-    "split": "test",
+    "split": "test-mini",
     "sub-category": "Multi Speaker Role Mapping"
   },
   {
@@ -17429,7 +17429,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "f37f225c-98a7-47c9-bce6-35409ad56407",
@@ -17445,7 +17445,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "4d17b24a-3bd2-4703-aba7-7886c23361a3",
@@ -17461,7 +17461,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "54d927bb-d3ef-42c7-b09c-25f94ccf252e",
@@ -17477,7 +17477,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "87326e29-9675-4105-aa7c-d51e98b51011",
@@ -17493,7 +17493,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "f451db46-7306-4f97-867c-db846e03f759",
@@ -17509,7 +17509,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "8105129d-e232-4255-9588-8a1fed9cab29",
@@ -17525,7 +17525,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "47ae81d9-8cb5-4267-9394-2f511cc84871",
@@ -17541,7 +17541,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "750a196d-ad01-4017-9db9-67e41ae5a88c",
@@ -17557,7 +17557,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "cec30bc1-1a82-4d05-9225-0367d65565eb",
@@ -17573,7 +17573,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "9ebc1037-d01d-4078-879c-1ab873f71ab0",
@@ -17589,7 +17589,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "be645c09-f646-45af-9ce9-730069723b65",
@@ -17605,7 +17605,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "cc3ba5df-e272-4ff7-9688-fb3fc76757c1",
@@ -17621,7 +17621,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "7c58f831-316f-460d-a4b5-399b8490b245",
@@ -17637,7 +17637,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "3c4fa8f8-972a-4dcb-a24b-e5d1039dd23f",
@@ -17653,7 +17653,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "becaaa03-b09e-4d3e-bf28-c119d646666d",
@@ -17669,7 +17669,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "c8802ef5-caa1-4259-8820-3bb4456a728f",
@@ -17685,7 +17685,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "9439b65d-ac04-4f2d-bde1-396422517c46",
@@ -17701,7 +17701,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "381f854d-d5b7-4f02-a2a8-6afeb378d261",
@@ -17717,7 +17717,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "594798f5-f0dc-416f-b7d8-4f4db8ddf4b3",
@@ -17733,7 +17733,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "6d3e431a-ba0c-4914-afa5-9d154ba32eff",
@@ -17749,7 +17749,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "c2289905-efb3-4552-a693-075ef24b5d57",
@@ -17765,7 +17765,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "45abff91-d6e8-4861-937e-62f0c036314e",
@@ -17781,7 +17781,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "b8f25d1a-bdc3-4d2a-b4a3-ffe7e399ba60",
@@ -17797,7 +17797,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "7235d35a-373e-4ca9-9be3-310b4022a371",
@@ -17815,7 +17815,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "23f21925-92f8-417f-834a-f87f354e0b5b",
@@ -17833,7 +17833,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "427ba822-c000-4303-bf21-7da0a703efc2",
@@ -17851,7 +17851,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "36220c27-9060-47b6-b647-ccf7f3ba8f58",
@@ -17869,7 +17869,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "93c1c06a-ef2f-4112-8ffe-7c7f3154dcde",
@@ -17887,7 +17887,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "08267cd7-ef33-4aae-9351-047b6cbeaa0c",
@@ -17905,7 +17905,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "b86317c4-d42b-43fa-a4b3-c892dff8cfe5",
@@ -17923,7 +17923,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "976cd4b0-1894-4a7e-ba61-e6e5f4f28453",
@@ -17941,7 +17941,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "dd2f3e8d-cca8-42fc-bf0a-b6ce0ac27dae",
@@ -17959,7 +17959,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "2783e849-9174-4f84-abe6-45abf50f6d2b",
@@ -17977,7 +17977,7 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   },
   {
     "id": "9b66a67f-d2a8-42df-a629-2d0035682fc7",
@@ -17995,6 +17995,6 @@
     "category": "Information Extraction",
     "sub-category": "Phonological Sequence Decoding",
     "difficulty": "easy",
-    "split": "test"
+    "split": "test-mini"
   }
 ]
