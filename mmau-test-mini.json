@@ -6700,12 +6700,12 @@
     "audio_id": "./test-mini-audios/737cbdd3-0f9e-4b80-923d-aa919cdaaf26.wav",
     "question": "Which instruments provide the rhythmic background in the audio?",
     "choices": [
-      "Electric guitar",
-      "Bass guitar",
-      "Acoustic drums",
-      "Piano"
+      "Piano",
+      "Flute",
+      "Drums",
+      "Guitar"
     ],
-    "answer": "Acoustic drums",
+    "answer": "Guitar",
     "dataset": "musicbench",
     "task": "music",
     "category": "Information Extraction",
