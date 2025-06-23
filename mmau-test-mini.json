@@ -17789,9 +17789,11 @@
     "question": "Which word appears first",
     "choices": [
       "Blaire",
-      "bad"
+      "bad",
+      "for",
+      "bestie"
     ],
-    "answer": "bad",
+    "answer": "Blaire",
     "dataset": "synthetic",
     "task": "speech",
     "category": "Information Extraction",
