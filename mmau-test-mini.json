@@ -27,7 +27,7 @@
       "An adult man",
       "A teenager"
     ],
-    "answer": "A child",
+    "answer": "A woman",
     "dataset": "AudioSet",
     "task": "sound",
     "split": "test-mini",
