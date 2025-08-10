@@ -13561,7 +13561,7 @@
     "id": "d882cb66-222f-48cd-a396-2439fa301234",
     "audio_id": "./test-mini-audios/d882cb66-222f-48cd-a396-2439fa301234.wav",
     "question": "Given that an infant is crying, name a famous individual associated with the device heard in the background.",
-    "answer": "Thomas Edison",
+    "answer": "Alexander Graham Bell",
     "choices": [
       "Thomas Edison",
       "Nikola Tesla",
