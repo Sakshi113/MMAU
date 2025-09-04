@@ -9,6 +9,8 @@ This repo contains the evaluation code and MMAU benchmark for the paper "[MMAU: 
 
 ## 📢 Announcement
 
+**:new: 19 Aug 2025:** Check out [MMAU-Pro](https://sonalkum.github.io/mmau-pro/), a more challenging and comprehensive benchmark to evaluate audio intelligence!
+
 We’re excited to share that our benchmark has been updated based on valuable community feedback!
 
 🔄 What's New in **MMAU-v05.15.25**
