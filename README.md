@@ -9,6 +9,8 @@ This repo contains the evaluation code and MMAU benchmark for the paper "[MMAU: 
 
 ## 📢 Announcement
 
+**:new: 30 Jan 2026:** MMAU test evaluation has moved from Eval.ai to HF Space [MMAU Eval HF Space](https://huggingface.co/spaces/sonalkum/MMAU-Eval). Please visit the space to evaluate your submission.
+
 **:new: 19 Aug 2025:** Check out [MMAU-Pro](https://sonalkum.github.io/mmau-pro/), a more challenging and comprehensive benchmark to evaluate audio intelligence!
 
 We’re excited to share that our benchmark has been updated based on valuable community feedback!
@@ -59,7 +61,7 @@ python evaluation.py  --input INPUT_JSON_PATH
 - Use this [link](https://drive.google.com/file/d/1fERNIyTa0HWry6iIG1X-1ACPlUlhlRWA/view?usp=sharing) to download `test-mini audios`.
 - Use this [link](https://drive.google.com/file/d/1XqkRupC723zAeyDn4dYniqNv4uO-8rEg/view?usp=sharing) to download `test-audios`.
 
-The answers and explanations for the test set questions are withheld. You can submit your model's predictions for the **test set** on **[EvalAI](https://eval.ai/web/challenges/challenge-page/2391/overview)**.
+The answers and explanations for the test set questions are withheld. You can submit your model's predictions for the **test set** on **[MMAU Eval HF Space](https://huggingface.co/spaces/sonalkum/MMAU-Eval)**.
 
 ## Disclaimers
 The guidelines for the annotators emphasized strict compliance with copyright and licensing rules from the initial data source, specifically avoiding materials from websites that forbid copying and redistribution. 
