@@ -58,8 +58,8 @@ python evaluation.py  --input INPUT_JSON_PATH
 ```
 
 - **We have released a full suite comprising 1000 test-mini samples and 9000 test samples. The 9,000 test questions are available without their answers.**
-- Use this [link](https://drive.google.com/file/d/1fERNIyTa0HWry6iIG1X-1ACPlUlhlRWA/view?usp=sharing) to download `test-mini audios`.
-- Use this [link](https://drive.google.com/file/d/1XqkRupC723zAeyDn4dYniqNv4uO-8rEg/view?usp=sharing) to download `test-audios`.
+- Use this [link](https://huggingface.co/datasets/gamma-lab-umd/MMAU-test-mini) to access `test-mini` dataset using the HF datasets.
+- Use this [link](https://huggingface.co/datasets/gamma-lab-umd/MMAU-test-mini/tree/main) to download `test-audios`. Test dataset can be used using the HF datasets on: [MMAU-test](https://huggingface.co/datasets/gamma-lab-umd/MMAU-test).
 
 The answers and explanations for the test set questions are withheld. You can submit your model's predictions for the **test set** on **[MMAU Eval HF Space](https://huggingface.co/spaces/sonalkum/MMAU-Eval)**.
 
